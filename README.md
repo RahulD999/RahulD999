@@ -1,4 +1,4 @@
-![Beautiful Pokemon GIF]("pokemon.gif")
+<img src="pokemon.gif">
 <img src="Designer.jpeg">
 <img src="header.png">
 
