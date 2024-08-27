@@ -1,4 +1,4 @@
-<video src="pokemonwide.mp4">
+![Beautiful Pokemon GIF]("pokemon.gif")
 <img src="Designer.jpeg">
 <img src="header.png">
 
