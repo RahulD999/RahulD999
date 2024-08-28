@@ -1,5 +1,5 @@
-<img src="pokemon.gif">
-<img src="Designer.jpeg">
+<img src="pokemon.gif" width=">
+<img src="Designer.jpeg" height="200px" width="200px">
 <img src="header.png">
 
 Here are some ideas to get you started:
