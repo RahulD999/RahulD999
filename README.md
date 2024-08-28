@@ -1,4 +1,4 @@
-<img src="pokemon.gif" height="250px" width="800px">
+<img src="pokemon.gif" height="400px" width="800px">
 <img src="Designer.jpeg" height="200px" width="200px">
 <img src="header.png">
 
