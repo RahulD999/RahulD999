@@ -1,6 +1,6 @@
-<img src="pokemon.gif" alt="Pokemon Welcome GIF" width="100%">
+<img src="pokemon.gif" alt="Pokemon Welcome GIF" width="800">
 
-<img align="right" src="Designer.jpeg" width="200" alt="My Pixel Avatar">
+<img align="right" src="Avatar.jpeg" width="150" alt="My Pixel Avatar" style="margin-top: -50px">
 
 # Namaste, I'm [Your Name]! 👋
 
