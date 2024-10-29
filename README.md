@@ -1,6 +1,6 @@
-<img src="pokemon.gif" height="300" width="100%">
+<img src="pokemon.gif" height="400" width="100%">
 <div style="display: flex; align-items: center;">
-  <img src=""Designer.jpeg" width="150" alt="Pixel Avatar" style="margin-right: 20px;">
+  <img src="Designer.jpeg" width="150" alt="Pixel Avatar" style="margin-right: 20px;">
 
   ### Namaste, I'm RahulD999! 🖥️👨‍💻
   
