@@ -1,4 +1,5 @@
-<img src="pokemon.gif" height="400" width="100%">
+![Pokemon GIF](pokemon.gif)
+*Image credit: [Link to artist or website]*
 <div style="display: flex; align-items: center;">
   <img src="Designer.jpeg" width="150" alt="Pixel Avatar" style="margin-right: 20px;">
 
