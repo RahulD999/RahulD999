@@ -1,6 +1,13 @@
+<img src="pokemon.gif" height="300" width="100%">
+<div style="display: flex; align-items: center;">
+  <img src=""Designer.jpeg" width="150" alt="Pixel Avatar" style="margin-right: 20px;">
 
-<img src="Designer.jpeg">
-<img src="header.png">
+  ### Namaste, I'm RahulD999! 🖥️👨‍💻
+  
+  <p>I'm a dev enthusiast, building intelligent and scalable solutions that bridge AI and full-stack development.</p>
+</div>
+<!-- <img src="Designer.jpeg"> -->
+<!-- <img src="header.png"> -->
 
 Here are some ideas to get you started:
 
